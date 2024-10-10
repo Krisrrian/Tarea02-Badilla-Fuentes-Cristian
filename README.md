@@ -22,9 +22,18 @@ INF224-REDES DE COMPUTADORES I:S1 (2024).
 
 ## Instrucciones de Uso
 
-(Escribe las instrucciones para ejecutar el software o cualquier otra información relevante).
+### Software Requerido
 
-## Documentación
+- **Python**: Asegúrate de tener Python 3.6 o superior instalado en tu sistema.
+- **Gestor de paquetes**: Necesitarás `pip` para instalar las dependencias.
+- **VSC o tu codificador de preferencia.
+### Dependencias
+
+Este proyecto utiliza algunas bibliotecas externas. Puedes instalar las dependencias necesarias ejecutando el siguiente comando:
+
+```bash
+pip install -r requirements.txt
+### Documentación
   Este Trabajo incluye un informe que se encuentra en la carpeta documentos de el mismo repositorio
   
   
